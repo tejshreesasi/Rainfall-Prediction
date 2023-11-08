@@ -3,10 +3,11 @@ In this project there is an in-depth analysis of rainfall prediction for three d
 
 Machine Learning Algorithms used:
 
-Long Short-Term Memory (LSTM)
-Random Forest Regressor
-XGBoost
-Exponential models
-ARIMA (AutoRegressive Integrated Moving Average)
-K-Nearest Neighbors (KNN)
+* Long Short-Term Memory (LSTM)
+* Random Forest Regressor
+* XGBoost
+* Exponential models
+* ARIMA (AutoRegressive Integrated Moving Average)
+* K-Nearest Neighbors (KNN)
+  
 Therefore, selecting the most suitable algorithm and customizing the model to the specific needs of the region or application is essential in ensuring reliable and effective rainfall predictions. This combination of advanced technology and local customization empowers nations to better manage their water resources, protect against the impacts of erratic rainfall, and support sustainable agricultural practices and water supply systems.
